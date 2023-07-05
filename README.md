@@ -16,6 +16,7 @@ comment:  Digitaler Wegweiser zur didaktischen Planung studentischer Teamarbeit 
 
 link: https://fonts.google.com/noto/specimen/Noto+Sans+Display
 
+link: https://github.com/Teamarbeit-in-IT-Lehrveranstaltungen/Digitaler-Wegweiser/blob/main/lineheight.css 
 -->
 
 # Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik ODER Wie kann ich studentische Teamarbeit gut in meine Lehre integrieren?
