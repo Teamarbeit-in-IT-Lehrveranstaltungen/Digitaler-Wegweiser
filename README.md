@@ -414,7 +414,7 @@ Ein Beispiel für ein Skript, welches das Prozedere der Zusammenarbeit strukturi
 
 <details style="background: #eee; border: 2px;">
 
-<summary style="padding: 1rem; background: #019093; font-size: 20px; color:#fff;">Beispiele für allgemeine Kollaborationsskripte</summary>
+<summary style="padding: 1rem; background: #019093; font-size: 20px; color:#fff;">Beispiele für Kollaborationsskripte aus der Informatik</summary>
 
 <div style="padding: 3rem;">
 
