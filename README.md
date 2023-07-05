@@ -4,8 +4,6 @@ author:   Sarah Briese
 
 email:    sarah.briese@ovgu.de
 
-logo: https://upload.wikimedia.org/wikipedia/commons/2/2a/Corporate_Woman_Giving_a_PowerPoint_Presentation.svg
-
 version:  0.0.1
 
 language: de
@@ -16,7 +14,6 @@ comment:  Digitaler Wegweiser zur didaktischen Planung studentischer Teamarbeit 
 
 link: https://fonts.google.com/noto/specimen/Noto+Sans+Display
 
-link: https://github.com/Teamarbeit-in-IT-Lehrveranstaltungen/Digitaler-Wegweiser/blob/main/lineheight.css 
 -->
 
 # Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik ODER Wie kann ich studentische Teamarbeit gut in meine Lehre integrieren?
