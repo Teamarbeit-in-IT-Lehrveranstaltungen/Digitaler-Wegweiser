@@ -12,7 +12,7 @@ narrator: Deutsch Female
 
 comment:  Digitaler Wegweiser zur didaktischen Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik.
 
-link: https://github.com/Teamarbeit-in-IT-Lehrveranstaltungen/Digitaler-Wegweiser/blob/main/custom.css
+link:     custom.css
 
 -->
 
