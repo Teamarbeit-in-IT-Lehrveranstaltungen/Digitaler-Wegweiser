@@ -136,13 +136,13 @@ https://tu-dresden.de/mz/ressourcen/dateien/services/e_learning/didaktische-hand
 
 Nehmen Sie sich Zeit für die Formulierung der Lehr-Lern-Ziele, sie bilden die Grundlage Ihrer späteren didaktischen Entscheidungen zur Gestaltung der Teamarbeit!
 
-#### 1.1 Lehr-Lernziele am konkreten Beispiel
+#### 📗 1.1 Lehr-Lernziele am konkreten Beispiel
 
 1. Die Studierenden entwickeln ein Verständnis für die Herausforderungen der Koordination von verteiltem Arbeiten in einem Team und zur Implementierung unterschiedlicher Rollen darin.
 
 2. Die Studierenden entwickeln anwendungsbereite Fähigkeiten in Standartwerkzeugen des Versionsmanagements (git) und der kooperativ/kollaborativen Softwareentwicklung (reviews, wikis, actions).
 
-#### 1.2 Unsere Erfahrungen/Tipps 
+#### ✏️ 1.2 Unsere Erfahrungen/Tipps 
 
 > Die Bemühungen um die Vermittlung der Konzepte von Teamarbeit müssen einen Eingang in das Gesamtcurriculum des Studienganges finden.
 > Ausgehend von anfänglich minimalen Gruppengrößen und ausführlichen Beschreibungen werden in fortgeschrittenen Semestern immer größere Teams für weniger spezifische Vorgaben gebildet.
