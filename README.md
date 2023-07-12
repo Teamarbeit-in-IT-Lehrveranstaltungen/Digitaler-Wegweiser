@@ -16,7 +16,7 @@ link:     custom.css
 
 -->
 
-# Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik ODER Wie kann ich studentische Teamarbeit gut in meine Lehre integrieren?
+# Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik 
 
 Sie wollen eine Lehrveranstaltung konzipieren oder weiterentwickeln, in der Studierende kooperativ oder kollaborativ lernen sollen?
 Im Folgenden werden Sie Schritt für Schritt durch den Planungsprozess geleitet.
@@ -24,7 +24,7 @@ In Schritt 1-3 geht es um die Analyse von Vorbedingungen für Ihre didaktischen 
 In Schritt 4-8 geht es um konkrete didaktische Entscheidungen zur Gestaltung der Gruppenarbeit.
 Dabei ist jeder Planungsschritt in drei Unterkapitel untergliedert: (1) was sagt die Forschung, (2) was sind unsere Empfehlungen, (3) ein Beispiel zur Umsetzung.
 
-## Problemdarstellung und Ziele
+## Problemdarstellung 
 
 Teamfähigkeit wird einerseits als eine essentielle Kompetenz für Informatiker:innen beschrieben, andererseits zeigen sich in Forschungsarbeiten immer wieder Lücken zwischen den Anforderungen der (Software-)Industrie und den in der Hochschulbildung erworbenen Kompetenzen der Absolvent:innen (Garousi et al., 2019; Radermacher, & Walia, 2013).
 Es zeichnet sich ein Bedarf an einer diesbezüglichen Weiterentwicklung von Aufgaben, Lehrveranstaltungen und Curricula an Hochschulen ab.
@@ -33,7 +33,7 @@ Teamarbeit erfordert ein hohes Maß an koordinativem und kommunikativem Aufwand 
 Lehrende hingegen verfügen oft nicht über die entsprechenden Kompetenzen für die didaktische Gestaltung kollaborativer und kooperativer Lehr-Lern-Szenarien (Veldman, Van Kuijk, Doolaard, & Bosker, 2020).
 Zugleich deuten die Ergebnisse von Studien darauf hin, dass systematisch didaktisch geplante kollaborative und kooperative Lehr-Lern-Szenarien zu besseren Leistungen der Lernenden führen, als Szenarien, in denen lediglich Tools für Teamarbeit bereitgestellt werden und die konkrete Umsetzung den Lernenden überlassen wird (Borokhovski et al., 2016).
 
-### Ziele des Projekts DiP-iT
+## Ziele des Projekts DiP-iT
 
 Zielstellung des Projekts DiP-iT „Digitales Programmieren im Team“[^1] war vor diesem Hintergrund die Entwicklung eines digitalen Fachkonzepts zur Integration von Teamarbeit in die Lehre.
 **Mittels unseres digitalen Wegweisers zur Implementierung von Teamarbeit in Lehrveranstaltungen sollen Lehrende dabei unterstützt werden, diesbezügliche didaktische Analysen und didaktische Designentscheidungen zu treffen.**
@@ -55,20 +55,20 @@ Unser empirisches Vorgehen bei der Entwicklung des digitalen Fachkonzepts ist du
 Zunächst haben wir __(1)__ die aktuelle Praxis von Teamarbeit in Grundlagenlehrveranstaltungen zum Programmieren erhoben, um Ansatzpunkte für Weiterentwicklung zu identifizieren.
 Mittels qualitativer Interviews mit Lehrenden und Studierenden an drei Hochschulen – Humboldt Universität zu Berlin, Otto-von-Guericke Universität Magdeburg und TU Bergakademie Freiberg haben wir untersucht, welche Formen der Teamarbeit in Lehrveranstaltungen umgesetzt werden, welche Ziele damit verbunden sind und wie Teamarbeit durchgeführt und bewertet wird.
 Auch die Herausforderungen mit denen Lehrende und Lernende dabei konfrontiert sind, wurden erhoben (Schulz, Berndt, & Hawlitschek, 2022).
-In ergänzenden quantitativen Befragungen mit Studierenden an den drei Hochschulen wurden der Einsatz der identifizierten Formen der Teamarbeit in Lehrveranstaltungen, die Wahrnehmungen zu Chancen und Herausforderungen und die Wünsche der Studierenden zur Verbesserung der Teamarbeit in Lehrveranstaltungen noch einmal mit einer größeren Studierendenzahl eruiert (Berndt, Schulz, & Hawlitschek, 2023).
+In ergänzenden quantitativen Befragungen mit Studierenden an den drei Hochschulen wurden der Einsatz der identifizierten Formen der Teamarbeit in Lehrveranstaltungen, die Wahrnehmungen zu Chancen und Herausforderungen und die Wünsche der Studierenden zur Verbesserung der Teamarbeit in Lehrveranstaltungen noch einmal mit einer größeren Studierendenzahl eruiert (Berndt et al., 2023).
 Unsere Studien zeigen, dass Teamarbeit und die damit verbundenen Fähigkeiten an den Hochschulen als wichtige Kompetenzen wahrgenommen werden.
 Lehrende beschreiben Teamarbeit jedoch zugleich als Mittel zur Senkung von Korrektur- und Betreuungsaufwand.
 Entsprechend erfährt Teamarbeit selten eine systematische didaktische Planung und Anleitung, vielmehr wird die konkrete Umsetzung oftmals den Studierenden überlassen.
 In den umgesetzten Lehr-Lern-Szenarien werden vorwiegend kooperative Formen der Teamarbeit umgesetzt, kollaborative Teamarbeit ist deutlich seltener.
 Eine große Mehrheit der Studierenden wünscht sich aber explizit eine umfangreichere didaktische Anleitung und Unterstützung der Teamarbeit durch Lehrende (Schulz, Berndt, & Hawlitschek, 2022).
 
-Anschließend haben wir __(2)__ mittels einer quantitativen Befragung von Mitarbeitenden untersucht, welche Bedarfe hinsichtlich Teamfähigkeiten in IT-Unternehmen vorhanden sind (Berndt, Schulz, & Hawlitschek, 2023).
+Anschließend haben wir __(2)__ mittels einer quantitativen Befragung von Mitarbeitenden untersucht, welche Bedarfe hinsichtlich Teamfähigkeiten in IT-Unternehmen vorhanden sind (Berndt et al., 2023).
 Die Ergebnisse unterstreichen die Bedeutung der Teamarbeit für die Arbeitswelt und die unzureichende Abdeckung des Themas in universitären Lehrveranstaltungen.
 Der sogenannte „academia-industry gap“ hinsichtlich der Teamfähigkeiten der Absolventen und der Bedarfe der IT-Unternehmen (Garousi et al., 2019) ist auch in unserer Studie manifest: Beschäftigte in IT-Unternehmen konstatieren eine steigende Bedeutung von Teamarbeit, fühlen sich jedoch durch das Studium nur selten gut auf die Anforderungen an Teamfähigkeiten in der Praxis vorbereitet.
 Sie wünschen sich eine Anpassung von kooperativen und kollaborativen Lehr-Lernpraxen an die Bedarfe der Arbeitswelt.
 
 Mittels eines systematischen Literaturreviews zu Pair Programming an Hochschulen haben wir __(3)__ evidenzbasierte Handlungsempfehlungen zum didaktischen Design dieser kollaborativen Form des Programmierens erhoben (Hawlitschek, Berndt, & Schulz, 2022).
-Für den Fokus auf Pair Programming haben wir uns vor dem Hintergrund entschieden, dass Pair Programming in der Befragung der Unternehmensmitarbeitenden eine steigende Relevanz zugeschrieben wurde, diese kollaborative Form jedoch sehr selten an Hochschulen genutzt wird (Berndt, Schulz, & Hawlitschek, 2023).
+Für den Fokus auf Pair Programming haben wir uns vor dem Hintergrund entschieden, dass Pair Programming in der Befragung der Unternehmensmitarbeitenden eine steigende Relevanz zugeschrieben wurde, diese kollaborative Form jedoch sehr selten an Hochschulen genutzt wird (Berndt et al., 2023).
 Mittels des Literaturreviews konnten wir Erkenntnisse zur Gruppenbildung, zur Strukturierung der Teamarbeit und zur Relevanz der didaktischen Anleitung gewinnen.
 Diese lassen sich teilweise auf andere kollaborative Programmierformen übertragen.
 
@@ -105,7 +105,8 @@ Bei der Planung von Teamarbeit müssen zunächst didaktische Analysen durchgefü
 In Anlehnung an bestehende didaktische Modelle (Kerres, 2013) lassen sich folgende Analysefelder unterscheiden: die Lehr-Lernziele, die mit der Integration von Teamarbeit verfolgt werden, die Rahmenbedingungen, die sich aus dem Kontext des Lehr-Lernszenarios ergeben und die Lernendencharakteristika.
 Didaktische Entscheidungen betreffen die Strukturierung der Zusammenarbeit, die Gruppenbildung, die Lernaktivitäten, die Betreuung der Studierenden und die Prüfungsgestaltung (vgl. Hawlitschek, Berndt, & Schulz, 2021).
 
-!?[Video Vortrag](https://www.dip-it.ovgu.de/dipit_media/Videos/Koli_Calling_with_license-p-124.mp4)
+!?[Kurzvorstellung der Planungsschritte, Videovortrag aufgenommen im Rahmen der International Conference on Computing Education Research](https://www.dip-it.ovgu.de/dipit_media/Videos/Koli_Calling_with_license-p-124.mp4)
+
 
 ### Am konkreten Beispiel
 
@@ -519,7 +520,7 @@ Ein möglicher Ansatz kann auch darin bestehen in Anfänger\*innenkursen mit wen
 >   Ebenso muss sichergestellt werden, dass die Noviz:innen sich gleichwertig an der Aufgabenbearbeitung beteiligen (Bowman et al., 2019).
 > 3. Wenn Sie sich bei der Gestaltung der Teams an den Bedarfen in der Praxis (Programmierfirmen) orientieren wollen, um Ihre Studierenden auf Teamarbeit in der Arbeitswelt vorzubereiten, stellen Sie Teams von 2-4 Personen zusammen.
 >    Lassen Sie die Teamzugehörigkeiten im Verlauf der Arbeit variieren.
->    Auch die Zusammenarbeit in sehr großen Teams (5-19) sollte geübt werden (Berndt, Schulz, & Hawlitschek, 2023).
+>    Auch die Zusammenarbeit in sehr großen Teams (5-19) sollte geübt werden (Berndt et al., 2023).
 >    Mit steigender Teamfähigkeit können auch größere Teams effektiv zusammenarbeiten (Bertucci et al., 2010).
 > 4. Bei der Größe der Studierendenteams sollte auch die Zielstellung der Gruppenarbeit beachtet werden.
 >    Wenn für die Erreichung diesbezüglicher Lehr-Lern-Ziele die Zusammenarbeit in größeren Gruppen notwendig ist aber Studierende sehr wenig Erfahrungen und/oder Teamskills haben, sollten Sie die Zusammenarbeit vorstrukturieren (z.B. durch die Nutzung eines Kollaborationsskripts), transparente Prozedere kommunizieren, damit Studierende wissen, was zu tun ist, wenn Gruppenmitglieder beispielsweise nicht mitarbeiten und Tools zur Zusammenarbeit empfehlen.
@@ -528,7 +529,7 @@ Ein möglicher Ansatz kann auch darin bestehen in Anfänger\*innenkursen mit wen
 
 #### 6.2 Gruppenbildung am konkreten Beispiel
 
-Bei der Entscheidung zur Gruppeneinteilung der Studierenden schwankten wir zwischen dem Wunsch, etwas größere Gruppen von 3-5 Personen zu bilden, um die Arbeitsabläufe mit Versionsmanagementsystemen in der Industrie noch besser abzubilden (Berndt, Schulz, & Hawlitschek, 2023) und dem Wunsch, den Aufwand für die Gruppenkoordination nicht zu groß werden zu lassen, da wir es mit Studierenden zu tun hatten, die sich als unerfahren in der Teamarbeit und in der Arbeit mit GitHub einschätzten.
+Bei der Entscheidung zur Gruppeneinteilung der Studierenden schwankten wir zwischen dem Wunsch, etwas größere Gruppen von 3-5 Personen zu bilden, um die Arbeitsabläufe mit Versionsmanagementsystemen in der Industrie noch besser abzubilden (Berndt et al., 2023) und dem Wunsch, den Aufwand für die Gruppenkoordination nicht zu groß werden zu lassen, da wir es mit Studierenden zu tun hatten, die sich als unerfahren in der Teamarbeit und in der Arbeit mit GitHub einschätzten.
 Letzteres gab den Ausschlag eine Gruppengröße von zwei Personen zu wählen.
 Da unsere Studierenden im zweiten Semester sind, sind sie nicht ganz neu an der Universität.
 Deshalb haben wir beschlossen, die Studierenden selbst entscheiden zu lassen, mit wem sie zusammenarbeiten.
@@ -729,7 +730,7 @@ Das Projekt „DiP-iT“ wurde mit Mitteln des Bundesministeriums für Bildung u
 
 ![Logo BMBF](img/BMBF_Logo.jpg)
 
-> ***„Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik“*** von Anja Hawlitschek & Sarah Berndt, Otto-von-Guericke-Universität Magdeburg sowie Sebastian Zug, Bergakademie Freiberg, ist lizenziert unter einer Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz:
+> ***„Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik“*** von Anja Hawlitschek, Sarah Berndt & Sarah May Briese, Otto-von-Guericke-Universität Magdeburg sowie Sebastian Zug, Bergakademie Freiberg, ist lizenziert unter einer Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz:
 >
 > ![Creative Commons Lizenz 4.0 Namensnennung - Nicht kommerziell - keine Bearbeitung](https://researchdata.edu.au/assets/core/images/icons/CC-BY-NC-ND.png)<!--
 style = "hight:50px; width: 150px;"
@@ -750,10 +751,7 @@ Group Decision and Negotiation, 15(6), 529-556.
 https://doi.org/10.1007/s10726-006-9030-1
 
 
-Berndt, S., Schulz, S., & Hawlitschek, A.
-(2023).
-Target-actual analysis of collaborative and cooperative programming learning in university computer science studies – empirical findings and implications for the design of teaching.
-Computer Science Education (eingereicht).
+Berndt, S., Schulz, S., Hawlitschek, A., Dietrich, A. & Zug, S. (2023). Actual analysis of collaborative and cooperative programming in software development companies -- implications for the design of teaching. 10. Fachtagung Hochschuldidaktik Informatik, HDI 2023 (eingereicht).
 
 
 Bertucci, A., Conte, S., Johnson, D. W., Johnson, R. T.
