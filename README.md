@@ -14,6 +14,8 @@ comment:  Digitaler Wegweiser zur didaktischen Planung studentischer Teamarbeit 
 
 link:     custom.css
 
+icon: https://www.dip-it.ovgu.de/dipit_media/Bilder/Marginalbereich/Logo_DiP_iT_wei%C3%9F-height-230-width-230-p-74.png
+
 -->
 
 # Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik 
