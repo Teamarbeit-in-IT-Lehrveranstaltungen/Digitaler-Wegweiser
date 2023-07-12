@@ -107,8 +107,8 @@ Didaktische Entscheidungen betreffen die Strukturierung der Zusammenarbeit, die 
 
 !?[Kurzvorstellung der Planungsschritte, Videovortrag aufgenommen im Rahmen der International Conference on Computing Education Research](https://www.dip-it.ovgu.de/dipit_media/Videos/Koli_Calling_with_license-p-124.mp4)
 
-
-### Am konkreten Beispiel
+Am konkreten Beispiel
+---------------------
 
 Am Beispiel einer Lehrveranstaltung zur Softwareentwicklung, die an der TU Bergakademie Freiberg gehalten wurde, veranschaulichen wir die einzelnen Analyse- und Entscheidungsschritte.
 Diese Lehrveranstaltung unterteilt sich in Vorlesung (4 SWS) und Übung (3 SWS) und wird von durchschnittlich 45 Studierenden der Studiengänge Angewandte Informatik, Robotik, Mathematik, Geoinformatik und Geophysik besucht.
@@ -137,13 +137,19 @@ https://tu-dresden.de/mz/ressourcen/dateien/services/e_learning/didaktische-hand
 
 Nehmen Sie sich Zeit für die Formulierung der Lehr-Lern-Ziele, sie bilden die Grundlage Ihrer späteren didaktischen Entscheidungen zur Gestaltung der Teamarbeit!
 
-#### 📗 1.1 Lehr-Lernziele am konkreten Beispiel
+#### 🔎1.1 Lehr-Lernziele am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 1. Die Studierenden entwickeln ein Verständnis für die Herausforderungen der Koordination von verteiltem Arbeiten in einem Team und zur Implementierung unterschiedlicher Rollen darin.
 
 2. Die Studierenden entwickeln anwendungsbereite Fähigkeiten in Standartwerkzeugen des Versionsmanagements (git) und der kooperativ/kollaborativen Softwareentwicklung (reviews, wikis, actions).
 
-#### ✏️ 1.2 Unsere Erfahrungen/Tipps 
+#### 1.2 Unsere Erfahrungen/Tipps 
+<!--
+icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
+-->
 
 > Die Bemühungen um die Vermittlung der Konzepte von Teamarbeit müssen einen Eingang in das Gesamtcurriculum des Studienganges finden.
 > Ausgehend von anfänglich minimalen Gruppengrößen und ausführlichen Beschreibungen werden in fortgeschrittenen Semestern immer größere Teams für weniger spezifische Vorgaben gebildet.
@@ -152,6 +158,9 @@ Nehmen Sie sich Zeit für die Formulierung der Lehr-Lern-Ziele, sie bilden die G
 
 
 ### Schritt 2: Analyse der Rahmenbedingungen für Ihre Lehrveranstaltung
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Welche Rahmenbedingungen sind hinsichtlich der Integration von Teamarbeit vorgegeben und engen gegebenenfalls Ihren Handlungsspielraum ein?
 
@@ -169,6 +178,9 @@ Welche Rahmenbedingungen sind hinsichtlich der Integration von Teamarbeit vorgeg
 
 
 #### 2.1 Rahmenbedingungen am konkreten Beispiel 
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Aus den Rahmenbedingungen ergeben sich für unser konkretes Beispiel Einschränkungen hinsichtlich der Prüfungsleistung.
 Laut Prüfungsordnung[^3] sind mündliche Prüfungen, Klausuren und alternative Prüfungsleistungen möglich.
@@ -188,12 +200,18 @@ Dabei werden die Repositories als privat konfiguriert und sind dadurch nur für 
 
 
 #### 2.2 Unsere Erfahrungen/Tipps
+<!--
+icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
+-->
 
 > Ermuntern Sie die Studierenden nicht die persönlichen Accounts für die webbasierten Entwicklungstools zu verwenden, sondern kurzlebige „Arbeitsaccounts“ für die Lehrveranstaltungen, die keine persönlichen Informationen umfassen, anzulegen.
 > Damit bleibt die Identität der Studierenden geschützt, gleichzeitig kann aber die Handhabung realistischer Werkzeuge erprobt werden.
 
 
 ### Schritt 3: Analyse der Zielgruppe
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 **Welche Lernendencharakteristika sind für die Umsetzung zu beachten?**
 
@@ -223,8 +241,10 @@ Die Befragungsergebnisse zeigten, dass die Studierenden in unserem Kurs überwie
 Welche Lernaktivitäten sollten die Studierenden ausführen, um die Lehr-Lernziele zur Teamarbeit erreichen zu können?
 Welche Lehraktivitäten sind hierfür zielführend?
 
-Was sagt die Forschung?
------------------------
+#### 4.1 Was sagt die Forschung?
+<!--
+icon: https://www.svgrepo.com/show/499835/data-report.svg
+-->
 
 Um eine effektive Lehrveranstaltung zu konzipieren, sollten Sie Aufwand darin investieren, die Lehr- Lernziele, Lehr-Lern-Aktivitäten und Prüfungsformate in Einklang zu bringen.
 Diese Vorgehensweise wird auch als Constructive Alignment bezeichnet.
@@ -275,7 +295,10 @@ Die beiden letzteren Misserfolgsfaktoren deuten auf mangelnde individuelle Veran
 
 
 #### 4.2 Empfehlungen: Lehr-Lernaktivitäten
- 
+<!--
+icon: https://www.svgrepo.com/show/398391/star.svg
+-->
+
 > 1. Unterstützen Sie die Lernenden bei der Bildung einer Lerngemeinschaft mit gemeinsamen Zielen, für deren Erreichung sich alle Lernenden verantwortlich fühlen.
 >
 >    + Gestalten Sie Aufgaben so, dass jedes Teammitglied für die Erreichung der Ziele relevant ist, z. B. durch verteilte Rollen oder die Verteilung der Lernressourcen (Brewer, & Klein, 2006).
@@ -298,6 +321,9 @@ Die beiden letzteren Misserfolgsfaktoren deuten auf mangelnde individuelle Veran
 
 
 #### 4.3 Lehr-Lernaktivitäten am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Hinsichtlich der Lernaktivitäten der Studierenden fokussieren wir hier auf die Gestaltung der Aufgaben und auf den Mehrwert von Teamarbeit.
 Die Programmierübung im Rahmen der Lehrveranstaltung beginnen mit sehr einfachen Aufgaben, um die Grundlagen der Programmiersprache zu verstehen.
@@ -314,8 +340,10 @@ Zudem wurden Schlüsselfaktoren für die erfolgreiche Softwareentwicklung sowie 
 
 Welche Strukturierung der Teamarbeit unterstützt Studierendengruppen bei der Zusammenarbeit?
 
-Was sagt die Forschung?
------------------------
+#### 5.1 Was sagt die Forschung?
+<!--
+icon: https://www.svgrepo.com/show/499835/data-report.svg
+-->
 
 In der empirischen Forschung wird deutlich, dass Studierende mit wenig Vorerfahrung in der Zusammenarbeit von stark vorstrukturierter Gruppenarbeit profitieren.
 Kollaborationsskripte, d.h. klar strukturierte Anweisungen, wie die Teammitglieder miteinander interagieren und zusammenarbeiten sollen, sind hierfür geeignet (Dillenbourg, 2002).
@@ -451,7 +479,10 @@ Es wird zwischen individuellem und kollaborativem Code-Review unterschieden.
 </div>
 </details>
 
-#### 5.1 Empfehlungen: Strukturierung der Teamarbeit
+#### 5.2 Empfehlungen: Strukturierung der Teamarbeit
+<!--
+icon: https://www.svgrepo.com/show/398391/star.svg
+-->
 
 > 1. Nutzen Sie Kollaborationsskripte um die Zusammenarbeit von Studierenden, die eher unerfahren in der Teamarbeit sind, zu strukturieren.
 >    Erläutern Sie den Studierenden das Kollaborationsskript vor Beginn der Teamarbeit (Hawlitschek, Berndt, & Schulz, 2022).
@@ -459,7 +490,10 @@ Es wird zwischen individuellem und kollaborativem Code-Review unterschieden.
 > 3. Lassen Sie Ihren Studierenden mit steigenden Teamfähigkeiten mehr Autonomie bei der Gestaltung der Teamarbeit (Wecker, & Fischer, 2011).
 > 4. Wenn die Lehr-Lernziele auf eine Verbesserung der Teamfähigkeiten Ihrer Studierenden abzielen, ziehen Sie die Nutzung von Kollaborationsskripten in Betracht, die die Lernenden dabei unterstützen, ihre Zusammenarbeit zu organisieren und über Teamarbeitsprozesse zu reflektieren (Noroozi et al., 2013).
 
-#### 5.2 Strukturierung der Teamarbeit am konkreten Beispiel
+#### 5.3 Strukturierung der Teamarbeit am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Wir entwarfen ein Kollaborationsskript mit einem Fokus auf den Ablauf der Zusammenarbeit und schwacher Wissensabhängigkeit[^5].
 Die Studierenden schlüpften in die Rolle des Maintainers bzw. in die Rolle des Entwicklers.
@@ -483,8 +517,10 @@ In den Aufgaben 4-7 war der Ablauf nur noch teilweise vorgegeben, in den Aufgabe
 
 Wie kann das Erreichen der Lehr-Lernziele durch die Zusammenstellung und Bildung der Teams unterstützt werden?
 
-Was sagt die Forschung?
-----------------------
+#### 📊 6.1 Was sagt die Forschung?
+<!--
+icon: https://www.svgrepo.com/show/286690/chart-bar-chart.svg
+-->
 
 **Wie groß sollten die Studierendenteams sein?**
 
@@ -510,7 +546,10 @@ Ein möglicher Ansatz kann auch darin bestehen in Anfänger\*innenkursen mit wen
 
 [^6]: https://moodle.org/plugins/mod_choicegroup
 
-#### 6.1 Empfehlungen: Gruppenbildung
+#### ⭐ 6.2 Empfehlungen: Gruppenbildung
+<!--
+icon: https://www.svgrepo.com/show/398391/star.svg
+-->
 
 > 1. Wenn Teams hinsichtlich der Bearbeitung von Fachaufgaben und damit in Bezug auf fachinhaltliche Lehr-Lernziele besonders effektiv sein sollen, stellen Sie Teams zusammen, die über ähnliche Vorkenntnisse und Programmierfähigkeiten verfügen und aus zwei Studierenden bestehen (Hawlitschek, Berndt, & Schulz, 2022).
 > 2. Im Sinne der Peer Instruction können auch heterogene Teams erfolgreich lernen.
@@ -527,7 +566,10 @@ Ein möglicher Ansatz kann auch darin bestehen in Anfänger\*innenkursen mit wen
 >    Wichtig ist, dass Sie die Arbeit mit den Tools in der Lehrveranstaltung einführen (Schulz, Berndt, & Hawlitschek, 2022).
 
 
-#### 6.2 Gruppenbildung am konkreten Beispiel
+#### 🔎 6.3 Gruppenbildung am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Bei der Entscheidung zur Gruppeneinteilung der Studierenden schwankten wir zwischen dem Wunsch, etwas größere Gruppen von 3-5 Personen zu bilden, um die Arbeitsabläufe mit Versionsmanagementsystemen in der Industrie noch besser abzubilden (Berndt et al., 2023) und dem Wunsch, den Aufwand für die Gruppenkoordination nicht zu groß werden zu lassen, da wir es mit Studierenden zu tun hatten, die sich als unerfahren in der Teamarbeit und in der Arbeit mit GitHub einschätzten.
 Letzteres gab den Ausschlag eine Gruppengröße von zwei Personen zu wählen.
@@ -537,7 +579,10 @@ Dass die Teamarbeit nicht in der ersten Übung, sondern später beginnt, ermögl
 Die Teamarbeit beginnt nach dieser Eingewöhnungsphase.
 
 
-#### 6.3 Unsere Erfahrungen/Tipps
+#### 💡 6.4 Unsere Erfahrungen/Tipps
+<!--
+icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
+-->
 
 Ein kritisches Moment bei der Organisation von studentischen Teamarbeiten ist in jedem Fall die Initiierung der jeweiligen Gruppen.
 Im ursprünglichen Format wurden die Teams in der ersten Vorlesungswoche zusammengestellt, das bedeutet vor dem Start der Übungen und damit ohne Gelegenheit des persönlichen Kennenlernens.
@@ -550,8 +595,10 @@ Zudem wurde in der Vorlesung vorbereitend Herausforderungen bei der Arbeit in in
 
 Wie werden Studierende in der Teamarbeit betreut?
 
-Was sagt die Forschung?
------------------------
+#### 7.1 Was sagt die Forschung?
+<!--
+icon: https://www.svgrepo.com/show/499835/data-report.svg
+-->
 
 Die didaktische Betreuung der Studierenden ist für den Lernerfolg aber auch für die Zufriedenheit mit der Teamarbeit sehr wichtig (Schulz, Berndt, & Hawlitschek, 2022).
 Während der Teamarbeit lassen sich zwei zentrale Aufgaben von Lehrenden unterscheiden – Lehrende beobachten und Lehrende unterstützen die Lernendengruppen (Kaendler et al., 2015).
@@ -603,7 +650,10 @@ Lernende, die im Vergleich mit den Peers schlecht abschneiden, profitieren von k
 </details>
 
 
-#### 7.1 Empfehlungen: Betreuung der Studierenden
+#### 7.2 Empfehlungen: Betreuung der Studierenden
+<!--
+icon: https://www.svgrepo.com/show/398391/star.svg
+-->
 
 > 1. Die Erreichbarkeit und Ansprechbarkeit der Lehrenden ist für die Studierenden sehr wichtig.
 >    Klare Aussagen zur Erreichbarkeit (z.B. wann ist die Lehrperson erreichbar, wie schnell wird geantwortet) und die Benennung möglicher Kommunikationskanäle sind hierbei genauso relevant, wie eine Haltung, die von Zugewandtheit, Offenheit und Respekt für die Studierenden zeugt (Hawlitschek, Briese, & Albrecht, 2022).
@@ -617,7 +667,10 @@ Lernende, die im Vergleich mit den Peers schlecht abschneiden, profitieren von k
 >    Wenn Dashboard-Visualisierungen auch als Information für Ihre Studierenden gedacht sind, sollten Sie stark wettkampforientierte Designs, wie Highscores, die negative motivationale Effekte hervorrufen könnten (Hanus, & Fox, 2015), vermeiden.
 >    Sie sollten sich zudem die Frage stellen: Reichen die Kompetenzen meiner Lernenden (Selbstlernkompetenzen, Fachkompetenzen, Teamkompetenzen) aus, um mit den bereitgestellten Daten/Informationen zielführend umzugehen?
 
-#### 7.2 Betreuung der Studierenden am konkreten Beispiel
+#### 7.3 Betreuung der Studierenden am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Im Folgenden beschreiben wir nur den Einsatz von automatisierten Rückmeldungen für Lehrende und Studierende in unserer Lehrveranstaltung, auf alle anderen Formen der Betreuung gehen wir nicht ein.
 Für unsere Lehrveranstaltung haben wir unterschiedliche Dashboard-Varianten entworfen, ausprobiert und evaluiert.
@@ -644,7 +697,10 @@ Folgende Aspekte wurden als besonders relevant hervorgehoben:
 [^7]: Beispielhaftes Dashboard, dass zu Illustrationszwecken mit Lehrenden der Bergakademie angelegt wurden [[Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/GitHubClassroomTutorFeedback/main/README.md#1)]
 
 
-#### 7.3 Unsere Erfahrungen/Tipps
+#### 7.4 Unsere Erfahrungen/Tipps
+<!--
+icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
+-->
 
 Rückblickend betrachtet war die Einbettung einer Kategorie „Neues aus der GitHub-Woche“ für die Studierenden motivierend und erkenntnisreich.
 Während dieses Einstiegs wurden verschiedene Aspekte der Teamarbeit bzw. einzelne Codeschnipsel aus den aktuellen Repositories extrahiert und mit den Studierenden besprochen.
@@ -670,8 +726,10 @@ https://www.uni-bremen.de/informationsportal-hochschullehre/lehre-gestalten/phas
 
 Vielleicht kommen kooperative Prüfungen für die Lehrveranstaltung in Betracht?
 
-Was sagt die Forschung?
------------------------
+#### 8.1 Was sagt die Forschung?
+<!--
+icon: https://www.svgrepo.com/show/499835/data-report.svg
+-->
 
 Zwar steht bei den meisten Prüfungen der kognitive Lernerfolg im Mittelpunkt, es ist jedoch zu erwägen, auch die Teamkompetenzen zu berücksichtigen (Strijbos, 2010).
 Eine Verknüpfung zwischen Teamarbeit und Prüfungsleistungen kann sich positiv auf die Quantität und Qualität der Teamarbeit auswirken (Macdonald, 2003).
@@ -696,7 +754,10 @@ Hierfür gibt es unterschiedliche Ansätze, wobei jeder dieser Ansätze auch Nac
   Sancho-Thomas, Fuentes-Fernández, & Fernández-Manjón (2009) beschreiben die dynamische Neustrukturierung von Teams auf der Basis der gegenseitigen Bewertungen als eine Möglichkeit solchen Absprachen entgegen zu wirken.
 
 
-#### 8.1 Planung der Prüfung am konkreten Beispiel
+#### 8.2 Planung der Prüfung am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Da es unser Ziel war, Prüfungen, Lernaktivitäten und Lehr-Lernziele möglichst aufeinander abzustimmen (Constructive Alignment), entschieden wir uns, eine alternative Prüfungsform anzubieten.
 Die Studierenden konnten zwischen der konventionellen Klausur und einem Programmierprojekt, das im Team durchzuführen war, auswählen.
@@ -707,7 +768,10 @@ In der Regel konnte anhand der Versionen sehr genau rekonstruiert werden, welche
 Unter Berücksichtigung der Dokumentation des Entwurfsprozesses, der Qualität der Umsetzung und der Interaktionsmuster dabei, wurde nach einem Gewichtungsschema eine Note abgeleitet.
 
 
-#### 8.2 Unsere Erfahrungen/Tipps
+#### 8.3 Unsere Erfahrungen/Tipps
+<!--
+icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
+-->
 
 Bei der alternativen Prüfungsform präsentierten die Studierenden kreative Projekte und gute bis sehr gute Lösungen dafür.
 Die Teams nutzen die Möglichkeiten der Entwicklungsumgebung konsequent und zielführend.
