@@ -139,13 +139,13 @@ https://tu-dresden.de/mz/ressourcen/dateien/services/e_learning/didaktische-hand
 
 Nehmen Sie sich Zeit für die Formulierung der Lehr-Lern-Ziele, sie bilden die Grundlage Ihrer späteren didaktischen Entscheidungen zur Gestaltung der Teamarbeit!
 
-#### 1.1 Lehr-Lernziele am konkreten Beispiel
+#### 🔎 1.1 Lehr-Lernziele am konkreten Beispiel
 
 1. Die Studierenden entwickeln ein Verständnis für die Herausforderungen der Koordination von verteiltem Arbeiten in einem Team und zur Implementierung unterschiedlicher Rollen darin.
 
 2. Die Studierenden entwickeln anwendungsbereite Fähigkeiten in Standartwerkzeugen des Versionsmanagements (git) und der kooperativ/kollaborativen Softwareentwicklung (reviews, wikis, actions).
 
-#### 1.2 Unsere Erfahrungen/Tipps 
+#### 💡 1.2 Unsere Erfahrungen/Tipps 
 <!--
 icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
 -->
@@ -176,7 +176,7 @@ Welche Rahmenbedingungen sind hinsichtlich der Integration von Teamarbeit vorgeg
    * Verfügen alle Studierenden über die notwendige Hardware zur Umsetzung des Konzepts?
 
 
-#### 2.1 Rahmenbedingungen am konkreten Beispiel 
+#### 🔎 2.1 Rahmenbedingungen am konkreten Beispiel 
 <!--
 icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
 -->
@@ -198,7 +198,7 @@ Dabei werden die Repositories als privat konfiguriert und sind dadurch nur für 
 [^4]: https://classroom.github.com/
 
 
-#### 2.2 Unsere Erfahrungen/Tipps
+#### 💡 2.2 Unsere Erfahrungen/Tipps
 <!--
 icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
 -->
@@ -227,7 +227,7 @@ Brauchen die Studierenden eine Einführung in digitale Tools zur Teamarbeit?
 Zwar wird bei Studierenden der Informatik eine gewissen Medienaffinität angenommen, unsere Studien zeigen jedoch, dass sich Studierende eine Einführung in Tools zur Teamarbeit durch die Lehrenden bzw. Hinweise zu geeigneten Tools wünschen (Hawlitschek, Rudolf, & Zug, 2021; Schulz, Berndt, & Hawlitschek, 2022).
 
 
-#### 3.1 Lernendencharakteristika am konkreten Beispiel
+#### 🔎 3.1 Lernendencharakteristika am konkreten Beispiel
 
 Hinsichtlich der Lernendencharakteristika haben wir die Anzahl der Semester im Studiengang sowie die Vorerfahrungen der Studierenden mit GitHub und mit Teamarbeit als relevante Aspekte für das Instruktionsdesign berücksichtigt.
 Um diese zu erheben, führten wir zu Beginn der Lehrveranstaltung online eine anonyme Befragung[^5] durch.
@@ -240,7 +240,7 @@ Die Befragungsergebnisse zeigten, dass die Studierenden in unserem Kurs überwie
 Welche Lernaktivitäten sollten die Studierenden ausführen, um die Lehr-Lernziele zur Teamarbeit erreichen zu können?
 Welche Lehraktivitäten sind hierfür zielführend?
 
-#### 4.1 Was sagt die Forschung?
+#### 📊 4.1 Was sagt die Forschung?
 <!--
 icon: https://www.svgrepo.com/show/499835/data-report.svg
 -->
@@ -293,7 +293,7 @@ Die beiden letzteren Misserfolgsfaktoren deuten auf mangelnde individuelle Veran
 </details>
 
 
-#### 4.2 Empfehlungen: Lehr-Lernaktivitäten
+#### ⭐ 4.2 Empfehlungen: Lehr-Lernaktivitäten
 <!--
 icon: https://www.svgrepo.com/show/398391/star.svg
 -->
@@ -319,7 +319,7 @@ icon: https://www.svgrepo.com/show/398391/star.svg
 >    Dafür sollten Sie Lehr-Lernaktivitäten einplanen, die die Reflexion der Gruppenarbeit ermöglichen (Kirschner et al., 2015).
 
 
-#### 4.3 Lehr-Lernaktivitäten am konkreten Beispiel
+#### 🔎 4.3 Lehr-Lernaktivitäten am konkreten Beispiel
 <!--
 icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
 -->
@@ -339,7 +339,7 @@ Zudem wurden Schlüsselfaktoren für die erfolgreiche Softwareentwicklung sowie 
 
 Welche Strukturierung der Teamarbeit unterstützt Studierendengruppen bei der Zusammenarbeit?
 
-#### 5.1 Was sagt die Forschung?
+#### 📊 5.1 Was sagt die Forschung?
 <!--
 icon: https://www.svgrepo.com/show/499835/data-report.svg
 -->
@@ -478,7 +478,7 @@ Es wird zwischen individuellem und kollaborativem Code-Review unterschieden.
 </div>
 </details>
 
-#### 5.2 Empfehlungen: Strukturierung der Teamarbeit
+#### ⭐ 5.2 Empfehlungen: Strukturierung der Teamarbeit
 <!--
 icon: https://www.svgrepo.com/show/398391/star.svg
 -->
@@ -489,7 +489,7 @@ icon: https://www.svgrepo.com/show/398391/star.svg
 > 3. Lassen Sie Ihren Studierenden mit steigenden Teamfähigkeiten mehr Autonomie bei der Gestaltung der Teamarbeit (Wecker, & Fischer, 2011).
 > 4. Wenn die Lehr-Lernziele auf eine Verbesserung der Teamfähigkeiten Ihrer Studierenden abzielen, ziehen Sie die Nutzung von Kollaborationsskripten in Betracht, die die Lernenden dabei unterstützen, ihre Zusammenarbeit zu organisieren und über Teamarbeitsprozesse zu reflektieren (Noroozi et al., 2013).
 
-#### 5.3 Strukturierung der Teamarbeit am konkreten Beispiel
+#### 🔎 5.3 Strukturierung der Teamarbeit am konkreten Beispiel
 <!--
 icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
 -->
@@ -594,7 +594,7 @@ Zudem wurde in der Vorlesung vorbereitend Herausforderungen bei der Arbeit in in
 
 Wie werden Studierende in der Teamarbeit betreut?
 
-#### 7.1 Was sagt die Forschung?
+#### 📊 7.1 Was sagt die Forschung?
 <!--
 icon: https://www.svgrepo.com/show/499835/data-report.svg
 -->
@@ -649,7 +649,7 @@ Lernende, die im Vergleich mit den Peers schlecht abschneiden, profitieren von k
 </details>
 
 
-#### 7.2 Empfehlungen: Betreuung der Studierenden
+#### ⭐ 7.2 Empfehlungen: Betreuung der Studierenden
 <!--
 icon: https://www.svgrepo.com/show/398391/star.svg
 -->
@@ -666,7 +666,7 @@ icon: https://www.svgrepo.com/show/398391/star.svg
 >    Wenn Dashboard-Visualisierungen auch als Information für Ihre Studierenden gedacht sind, sollten Sie stark wettkampforientierte Designs, wie Highscores, die negative motivationale Effekte hervorrufen könnten (Hanus, & Fox, 2015), vermeiden.
 >    Sie sollten sich zudem die Frage stellen: Reichen die Kompetenzen meiner Lernenden (Selbstlernkompetenzen, Fachkompetenzen, Teamkompetenzen) aus, um mit den bereitgestellten Daten/Informationen zielführend umzugehen?
 
-#### 7.3 Betreuung der Studierenden am konkreten Beispiel
+#### 🔎 7.3 Betreuung der Studierenden am konkreten Beispiel
 <!--
 icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
 -->
@@ -696,7 +696,7 @@ Folgende Aspekte wurden als besonders relevant hervorgehoben:
 [^7]: Beispielhaftes Dashboard, dass zu Illustrationszwecken mit Lehrenden der Bergakademie angelegt wurden [[Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/GitHubClassroomTutorFeedback/main/README.md#1)]
 
 
-#### 7.4 Unsere Erfahrungen/Tipps
+#### 💡 7.4 Unsere Erfahrungen/Tipps
 <!--
 icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
 -->
@@ -725,7 +725,7 @@ https://www.uni-bremen.de/informationsportal-hochschullehre/lehre-gestalten/phas
 
 Vielleicht kommen kooperative Prüfungen für die Lehrveranstaltung in Betracht?
 
-#### 8.1 Was sagt die Forschung?
+#### 📊 8.1 Was sagt die Forschung?
 <!--
 icon: https://www.svgrepo.com/show/499835/data-report.svg
 -->
@@ -753,7 +753,7 @@ Hierfür gibt es unterschiedliche Ansätze, wobei jeder dieser Ansätze auch Nac
   Sancho-Thomas, Fuentes-Fernández, & Fernández-Manjón (2009) beschreiben die dynamische Neustrukturierung von Teams auf der Basis der gegenseitigen Bewertungen als eine Möglichkeit solchen Absprachen entgegen zu wirken.
 
 
-#### 8.2 Planung der Prüfung am konkreten Beispiel
+#### 🔎 8.2 Planung der Prüfung am konkreten Beispiel
 <!--
 icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
 -->
@@ -767,7 +767,7 @@ In der Regel konnte anhand der Versionen sehr genau rekonstruiert werden, welche
 Unter Berücksichtigung der Dokumentation des Entwurfsprozesses, der Qualität der Umsetzung und der Interaktionsmuster dabei, wurde nach einem Gewichtungsschema eine Note abgeleitet.
 
 
-#### 8.3 Unsere Erfahrungen/Tipps
+#### 💡 8.3 Unsere Erfahrungen/Tipps
 <!--
 icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
 -->
