@@ -139,10 +139,7 @@ https://tu-dresden.de/mz/ressourcen/dateien/services/e_learning/didaktische-hand
 
 Nehmen Sie sich Zeit für die Formulierung der Lehr-Lern-Ziele, sie bilden die Grundlage Ihrer späteren didaktischen Entscheidungen zur Gestaltung der Teamarbeit!
 
-#### 🔎1.1 Lehr-Lernziele am konkreten Beispiel
-<!--
-icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
--->
+#### 1.1 Lehr-Lernziele am konkreten Beispiel
 
 1. Die Studierenden entwickeln ein Verständnis für die Herausforderungen der Koordination von verteiltem Arbeiten in einem Team und zur Implementierung unterschiedlicher Rollen darin.
 
