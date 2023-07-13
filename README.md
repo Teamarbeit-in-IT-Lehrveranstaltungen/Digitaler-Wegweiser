@@ -140,6 +140,9 @@ https://tu-dresden.de/mz/ressourcen/dateien/services/e_learning/didaktische-hand
 Nehmen Sie sich Zeit für die Formulierung der Lehr-Lern-Ziele, sie bilden die Grundlage Ihrer späteren didaktischen Entscheidungen zur Gestaltung der Teamarbeit!
 
 #### 🔎 1.1 Lehr-Lernziele am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 1. Die Studierenden entwickeln ein Verständnis für die Herausforderungen der Koordination von verteiltem Arbeiten in einem Team und zur Implementierung unterschiedlicher Rollen darin.
 
@@ -228,6 +231,9 @@ Zwar wird bei Studierenden der Informatik eine gewissen Medienaffinität angenom
 
 
 #### 🔎 3.1 Lernendencharakteristika am konkreten Beispiel
+<!--
+icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
+-->
 
 Hinsichtlich der Lernendencharakteristika haben wir die Anzahl der Semester im Studiengang sowie die Vorerfahrungen der Studierenden mit GitHub und mit Teamarbeit als relevante Aspekte für das Instruktionsdesign berücksichtigt.
 Um diese zu erheben, führten wir zu Beginn der Lehrveranstaltung online eine anonyme Befragung[^5] durch.
@@ -242,7 +248,7 @@ Welche Lehraktivitäten sind hierfür zielführend?
 
 #### 📊 4.1 Was sagt die Forschung?
 <!--
-icon: https://www.svgrepo.com/show/499835/data-report.svg
+icon: https://www.svgrepo.com/show/286690/chart-bar-chart.svg
 -->
 
 Um eine effektive Lehrveranstaltung zu konzipieren, sollten Sie Aufwand darin investieren, die Lehr- Lernziele, Lehr-Lern-Aktivitäten und Prüfungsformate in Einklang zu bringen.
@@ -341,7 +347,7 @@ Welche Strukturierung der Teamarbeit unterstützt Studierendengruppen bei der Zu
 
 #### 📊 5.1 Was sagt die Forschung?
 <!--
-icon: https://www.svgrepo.com/show/499835/data-report.svg
+icon: https://www.svgrepo.com/show/286690/chart-bar-chart.svg
 -->
 
 In der empirischen Forschung wird deutlich, dass Studierende mit wenig Vorerfahrung in der Zusammenarbeit von stark vorstrukturierter Gruppenarbeit profitieren.
@@ -596,7 +602,7 @@ Wie werden Studierende in der Teamarbeit betreut?
 
 #### 📊 7.1 Was sagt die Forschung?
 <!--
-icon: https://www.svgrepo.com/show/499835/data-report.svg
+icon: https://www.svgrepo.com/show/286690/chart-bar-chart.svg
 -->
 
 Die didaktische Betreuung der Studierenden ist für den Lernerfolg aber auch für die Zufriedenheit mit der Teamarbeit sehr wichtig (Schulz, Berndt, & Hawlitschek, 2022).
@@ -727,7 +733,7 @@ Vielleicht kommen kooperative Prüfungen für die Lehrveranstaltung in Betracht?
 
 #### 📊 8.1 Was sagt die Forschung?
 <!--
-icon: https://www.svgrepo.com/show/499835/data-report.svg
+icon: https://www.svgrepo.com/show/286690/chart-bar-chart.svg
 -->
 
 Zwar steht bei den meisten Prüfungen der kognitive Lernerfolg im Mittelpunkt, es ist jedoch zu erwägen, auch die Teamkompetenzen zu berücksichtigen (Strijbos, 2010).
