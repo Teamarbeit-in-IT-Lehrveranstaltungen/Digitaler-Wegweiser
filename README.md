@@ -211,9 +211,6 @@ icon: https://www.svgrepo.com/show/263143/light-bulb-idea.svg
 
 
 ### Schritt 3: Analyse der Zielgruppe
-<!--
-icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
--->
 
 **Welche Lernendencharakteristika sind für die Umsetzung zu beachten?**
 
