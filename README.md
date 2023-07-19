@@ -796,7 +796,7 @@ Das Projekt „DiP-iT“ wurde mit Mitteln des Bundesministeriums für Bildung u
 
 ![Logo BMBF](img/BMBF_Logo.jpg)
 
-> ***„Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik“*** von Anja Hawlitschek, Sarah Berndt & Sarah May Briese, Otto-von-Guericke-Universität Magdeburg sowie Sebastian Zug, Bergakademie Freiberg, ist lizenziert unter einer Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz:
+> ***„Digitaler Wegweiser: Didaktische Planung studentischer Teamarbeit in Lehrveranstaltungen der Informatik“*** von Anja Hawlitschek, Sarah Berndt & Sarah May Briese, Otto-von-Guericke-Universität Magdeburg sowie Sebastian Zug & André Dietrich, Bergakademie Freiberg, ist lizenziert unter einer Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz:
 >
 > ![Creative Commons Lizenz 4.0 Namensnennung - Nicht kommerziell - keine Bearbeitung](https://researchdata.edu.au/assets/core/images/icons/CC-BY-NC-ND.png)<!--
 style = "hight:50px; width: 150px;"
