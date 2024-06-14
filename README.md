@@ -166,12 +166,12 @@ icon: https://www.svgrepo.com/show/513325/magnifying-glass.svg
 
 Welche Rahmenbedingungen sind hinsichtlich der Integration von Teamarbeit vorgegeben und engen gegebenenfalls Ihren Handlungsspielraum ein?
 
-1. ~Organisatorische Rahmenbedingungen:~
+1. Organisatorische Rahmenbedingungen:
 
    Welche Vorgaben machen Modulhandbücher und Studien- und Prüfungsordnungen?
    Sind kooperative oder kollaborative Prüfungsformate zulässig?
 
-2. ~Technische Rahmenbedingungen:~
+2. Technische Rahmenbedingungen:
 
    * Welche Tools für Teamarbeit stehen an Ihrer Hochschule zur Verfügung?
    * Können Sie Ihr Konzept mit den zur Verfügung stehenden Tools umsetzen?
